@@ -1,3 +1,3 @@
-#Stores REST Api
+Simple application with the purpose of learning about REST Apis, with python and Flask.
 
-This is built with Flask, Flask-RESTful, Flask_JWT
+Libraries like Flask-RESTful, Flask_JWT
